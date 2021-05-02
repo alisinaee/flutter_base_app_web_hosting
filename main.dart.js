@@ -68222,7 +68222,7 @@ U.zg.prototype={
 j:function(a){var s=this
 return"orientation : "+s.a.j(0)+" \n"+("deviceScreenType : "+s.b.j(0)+" \n")+("screenSize : "+s.c.j(0)+" \n")+("localWidgetSize : "+s.d.j(0)+" \n")}}
 F.IB.prototype={
-J:function(a,b){return new U.wD("/news/home","Flutter Demo",X.aqt(null,C.rZ),!1,T.aCG().a,null)}}
+J:function(a,b){return new U.wD("/weather_app/run","Flutter Demo",X.aqt(null,C.rZ),!1,T.aCG().a,null)}}
 O.vd.prototype={
 a8q:function(a,b){return this.f.$2(a,b)}}
 O.pJ.prototype={
